@@ -33,4 +33,4 @@ attendees.each do |badge|
 end
 
 end
->>>>>>> 6812c38245af60236038b1dd4bbda5a226f4809d
+
